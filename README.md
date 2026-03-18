@@ -5,7 +5,18 @@
 
 Data Analyst Detail-oriented Data Analyst with 4+ years in business intelligence and analytics. Skilled at transforming raw data into actionable insights to drive informed decisions and improve performance.
 
-Skills:  Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau ,Excel, PowerPoint, Word ,Data Cleaning, Analysis, Reporting, Problem-Solving
+🛠️ Skills & Tools
+Languages: Python, SQL
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Visualisation: Power BI, Tableau
+Office: Excel, PowerPoint, Word
+Core: Data Cleaning, Analysis, Reporting, Problem-Solving
+
+🚀 Strengths
+Analytical mindset & problem-solving
+Attention to detail & accuracy
+Clear communication of complex insights
+Time management & teamwork under pressure
 
 - 🌱 I’m currently learning Deep Learning and AWS 
 - 👯 I’m looking to collaborate on github 
