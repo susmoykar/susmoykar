@@ -18,10 +18,12 @@ Data Analyst Detail-oriented Data Analyst with 4+ years in business intelligence
 -  Clear communication of complex insights
 -  Time management & teamwork under pressure
 
-- 🌱 I’m currently learning Deep Learning and AWS 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Data Analyst Professionals 
-- 📫 How to reach me: LinkedIn 
+🔍 Key Responsibilities
+-  Clean, process, and analyse complex datasets
+-  Build interactive dashboards (Power BI, Tableau)
+-  Perform data modelling and statistical analysis
+-  Prepare reports and present insights
+-  Collaborate with cross-functional teams for tailored solutions
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/susmoykar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/susmoysun16//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/susmoy.kar16)  
